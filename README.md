@@ -1,3 +1,5 @@
 # test
 school project - simply a git hub test
-SacrecCOurefasdfsdgf
+project members:
+Sebastian Kropatschek
+Maximilian Planche
